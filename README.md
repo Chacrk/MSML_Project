@@ -1,5 +1,5 @@
 # MSML_Project
-code for paper
+Python code for paper "Multi-stage Meta-Learning for Few-Shot with Lie Group Network Constraint"
 
 ### 1. Environment
 #### 1.1. Requirements
@@ -22,7 +22,8 @@ code for paper
 
 ### 2. File Structure
 
-MSML_Project 
+MSML_Project
+
 └─**data**  
 &emsp;└─miniimagenet  
 &emsp;&emsp;&emsp;├─images  
@@ -64,4 +65,4 @@ MSML_Project
 | --- | --- | --- |
 | Pretrain | 2.64 | 5h-10m-46s |
 | 5-way 1-shot | 0.7 | 6h-51m-34s |
-| 5-way 5-shot | 0.3 | 19h-23m-45s |
+| 5-way 5-shot | 0.26 | 19h-23m-45s |
